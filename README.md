@@ -1,2 +1,2 @@
 # retraction.github.io
-GitHub repo page 
+Repo for the Retraction GitHub page.

@@ -1,0 +1,31 @@
+html {
+	background-color: #eee;
+	font-size: 1em;
+}
+body {
+	margin: auto;
+	width: 50rem;
+	background-color: white;
+	padding: 5rem;
+	box-sizing: border-box;
+	font-family: "Open Sans", sans-serif;
+}
+ul {
+    list-style-type: none;
+	padding: 0;
+}
+ul li {
+	list-style-position: inside;
+}
+a {
+	color: #0071cf;
+	text-decoration: none;
+}
+a:hover {
+	color: #00a6ff;
+}
+@media screen and (max-width: 50rem) {
+	body {
+		width: 100%;
+	}
+}
